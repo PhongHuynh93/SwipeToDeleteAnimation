@@ -3,4 +3,7 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="shadow">#4c000000</color>
+    <color name="delete">#fff44336</color>
+    <color name="background_super_dark">#ff292929</color>
 </resources>
